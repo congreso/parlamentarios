@@ -1,4 +1,5 @@
-personas
+Parlamentarios
 ========
 
-Listado de Diputados y Senadores
+
+Directorio de Diputados y Senadores
